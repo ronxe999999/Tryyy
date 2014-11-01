@@ -1,4 +1,4 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default">$$\int_{0}^{T}\sigma^2_tdt$$</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"> $$\int_{0}^{T}\sigma^2_tdt$$ </script>
 
 
 
