@@ -1,3 +1,5 @@
 Blog？？？
 ====
-好像突然学会了**Markdown**，好像还支持公式$\int_{0}^{T}\sigma^2_tdt$以后可以在这里写Blog了
+好像突然学会了**Markdown**，好像还支持公式
+$$\int_{0}^{T}\sigma^2_tdt$$
+以后可以在这里写Blog了
